@@ -1,0 +1,26 @@
+{
+  "name": "rahman-tandoori-website",
+  "version": "1.0.0",
+  "description": "Official website for Rahman's Tandoori Indian Restaurant in Landshut, Germany",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build required'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "restaurant",
+    "indian-food",
+    "tandoori",
+    "landshut",
+    "germany",
+    "website"
+  ],
+  "author": "Rahman's Tandoori",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/rahman-tandoori-website.git"
+  },
+  "homepage": "https://rahmantandoori.de"
+}
