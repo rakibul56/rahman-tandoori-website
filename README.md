@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Rahman's Tandoori - Official Website
 
 🍛 **Authentische indische Küche in Landshut, Deutschland**
@@ -16,7 +17,7 @@ Ludwig-Erhard-Straße 9
 ## 🌟 Website Features
 
 - ✨ **Modern Design** - Clean, responsive layout
-- 📱 **Mobile Friendly** - Perfect on all devices  
+- 📱 **Mobile Friendly** - Perfect on all devices
 - 🎨 **Professional Branding** - Custom logo and colors
 - 🗺️ **Google Maps Integration** - Easy directions for customers
 - ⏰ **Live Hours Display** - Current opening status
@@ -144,8 +145,10 @@ Für technische Fragen oder Anpassungen am Website kontaktieren Sie bitte den En
 
 ---
 
-_Erstellt mit ❤️ für Rahman's Tandoori Restaurant_
-=======
+# _Erstellt mit ❤️ für Rahman's Tandoori Restaurant_
+
 # rahman-tandoori-website
+
 Authentic Indian Cuisine
->>>>>>> 4734f7a2286165d2d54726b8b846a0fc1d345f1d
+
+> > > > > > > 4734f7a2286165d2d54726b8b846a0fc1d345f1d

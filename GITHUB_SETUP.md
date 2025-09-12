@@ -5,6 +5,7 @@
 ### Option 1: Using GitHub Web Interface (Easiest)
 
 1. **Create Repository**
+
    - Go to [github.com](https://github.com)
    - Click the green "New" button or "+" icon
    - Repository name: `rahman-tandoori-website`
@@ -33,9 +34,11 @@
 ### Option 2: Using Git Commands (Advanced)
 
 1. **Install Git** (if not installed)
+
    - Download from [git-scm.com](https://git-scm.com)
 
 2. **Initialize Repository**
+
    ```bash
    cd "C:\Users\rakib\Desktop\RahmanTandoory"
    git init
@@ -53,8 +56,9 @@
 ## ✅ Verification
 
 After upload, your GitHub repository should contain:
+
 - ✅ index.html
-- ✅ styles.css  
+- ✅ styles.css
 - ✅ script.js
 - ✅ logo.png
 - ✅ tranparent_logo.png
