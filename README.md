@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rahman's Tandoori - Official Website
 
 🍛 **Authentische indische Küche in Landshut, Deutschland**
@@ -144,3 +145,7 @@ Für technische Fragen oder Anpassungen am Website kontaktieren Sie bitte den En
 ---
 
 _Erstellt mit ❤️ für Rahman's Tandoori Restaurant_
+=======
+# rahman-tandoori-website
+Authentic Indian Cuisine
+>>>>>>> 4734f7a2286165d2d54726b8b846a0fc1d345f1d
